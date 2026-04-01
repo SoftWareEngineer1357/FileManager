@@ -10,4 +10,4 @@
 
 2. Запустите программу:
 ```bash
-python file_manager.py
+python file_manager_core.py
